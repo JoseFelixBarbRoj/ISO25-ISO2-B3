@@ -1,4 +1,4 @@
-package com.iteracion1.cliente.dominio;
+package iso2.cliente.dominio;
 
 public class Controlador_autenticacion {
 

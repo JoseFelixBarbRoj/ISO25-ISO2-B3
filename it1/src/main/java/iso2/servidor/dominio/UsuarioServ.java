@@ -1,4 +1,4 @@
-package com.iteracion1.servidor.dominio;
+package iso2.servidor.dominio;
 
 public class UsuarioServ {
 

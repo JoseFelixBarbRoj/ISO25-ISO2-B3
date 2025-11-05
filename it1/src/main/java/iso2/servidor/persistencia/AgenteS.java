@@ -1,4 +1,4 @@
-package com.iteracion1.servidor.persistencia;
+package iso2.servidor.persistencia;
 
 public class AgenteS {
 

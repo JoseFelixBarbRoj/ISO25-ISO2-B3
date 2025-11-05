@@ -1,13 +1,13 @@
-package com.iteracion1.cliente.presentacion;
+package iso2.cliente.presentacion;
 
-import com.iteracion1.cliente.dominio.Controlador_autenticacion;
-import com.iteracion1.cliente.dominio.Usuario;
-import com.iteracion1.cliente.persistencia.Agente;
+import iso2.cliente.dominio.Controlador_autenticacion;
+import iso2.cliente.dominio.Usuario;
+import iso2.cliente.persistencia.Agente;
 
-import com.iteracion1.servidor.dominio.Controlador_sesion;
-import com.iteracion1.servidor.dominio.UsuarioServ;
-import com.iteracion1.servidor.persistencia.AgenteS;
-import com.iteracion1.servidor.presentacion.Interfaz_sso_universidad;
+import iso2.servidor.dominio.Controlador_sesion;
+import iso2.servidor.dominio.UsuarioServ;
+import iso2.servidor.persistencia.AgenteS;
+import iso2.servidor.presentacion.Interfaz_sso_universidad;
 
 public class Pantalla_login_sso {
 

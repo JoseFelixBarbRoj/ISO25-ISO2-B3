@@ -1,4 +1,4 @@
-package com.iteracion1.servidor.presentacion;
+package iso2.servidor.presentacion;
 
 public class Interfaz_sso_universidad {
 
