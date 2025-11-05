@@ -8,7 +8,7 @@
           <artifactId>lab_b3</artifactId>
           <version>1.0</version>
     </parent>
- 
+
     <groupId>iso2</groupId>
     <artifactId>it1</artifactId>
     <version>1.0-SNAPSHOT</version>
