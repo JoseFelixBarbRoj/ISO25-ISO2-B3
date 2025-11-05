@@ -1,8 +1,0 @@
-com\ejemplo\servidor\persistencia\AgenteS.class
-com\ejemplo\cliente\presentacion\Pantalla_login_sso.class
-com\ejemplo\cliente\persistencia\Agente.class
-com\ejemplo\servidor\presentacion\Interfaz_sso_universidad.class
-com\ejemplo\cliente\dominio\Usuario.class
-com\ejemplo\servidor\dominio\UsuarioServ.class
-com\ejemplo\cliente\dominio\Controlador_autenticacion.class
-com\ejemplo\servidor\dominio\Controlador_sesion.class
