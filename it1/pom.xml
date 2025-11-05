@@ -29,7 +29,7 @@
             <configuration>
                 <archive>
                 <manifest>
-                    <mainClass>com.ejemplo.cliente.presentacion.Pantalla_login_sso</mainClass>
+                    <mainClass>com.iteracion1.cliente.presentacion.Pantalla_login_sso</mainClass>
                 </manifest>
                 </archive>
             </configuration>

@@ -12,7 +12,7 @@
     <packaging>pom</packaging>
 
     <name>labB3 (Proyecto Maven Padre)</name>
-    <description>Proyecto multi-módulo de ejemplo para cliente/servidor</description>
+    <description>Proyecto multi-módulo para cliente/servidor</description>
 
     <modules>
         <module>it1</module>

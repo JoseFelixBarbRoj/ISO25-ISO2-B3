@@ -1,4 +1,4 @@
-package com.ejemplo.servidor.dominio;
+package com.iteracion1.servidor.dominio;
 
 public class UsuarioServ {
 

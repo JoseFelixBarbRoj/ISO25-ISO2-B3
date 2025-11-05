@@ -1,4 +1,4 @@
-package com.ejemplo.cliente.dominio;
+package com.iteracion1.cliente.dominio;
 
 public class Usuario {
 
