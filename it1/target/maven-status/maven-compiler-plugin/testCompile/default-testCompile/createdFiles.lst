@@ -1,8 +1,8 @@
-com\pruebas\cliente\persistencia\AgenteTest.class
 com\pruebas\cliente\presentacion\Pantalla_login_ssoTest.class
 com\pruebas\servidor\presentacion\Interfaz_sso_universidadTest.class
 com\pruebas\cliente\dominio\Controlador_autenticacionTest.class
 com\pruebas\servidor\dominio\Controlador_sesionTest.class
 com\pruebas\servidor\dominio\UsuarioServTest.class
+com\pruebas\cliente\persistencia\ProxyTest.class
 com\pruebas\cliente\dominio\UsuarioTest.class
 com\pruebas\servidor\persistencia\AgenteSTest.class

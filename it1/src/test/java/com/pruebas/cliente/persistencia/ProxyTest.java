@@ -4,9 +4,9 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-public class AgenteTest {
-        @Test
-    public void Agentetest() {
+public class ProxyTest {
+    @Test
+    public void ProxyTestTest() {
         assertEquals(42, 40 + 2);
     }
 }
