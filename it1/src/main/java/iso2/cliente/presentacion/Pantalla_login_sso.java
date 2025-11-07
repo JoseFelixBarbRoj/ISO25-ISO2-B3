@@ -2,7 +2,7 @@ package iso2.cliente.presentacion;
 
 import iso2.cliente.dominio.Controlador_autenticacion;
 import iso2.cliente.dominio.Usuario;
-import iso2.cliente.persistencia.Agente;
+import iso2.cliente.persistencia.Proxy;
 
 import iso2.servidor.dominio.Controlador_sesion;
 import iso2.servidor.dominio.UsuarioServ;
@@ -34,9 +34,9 @@ public class Pantalla_login_sso {
         usuarioCliente.enviarLogin(login, pass);
 
         // Cliente: Guardar en persistencia
-        Agente agenteCliente = new Agente();
-        agenteCliente.getAgente();
-        agenteCliente.insert(login);
+        Proxy proxyCliente = new Proxy();
+        proxyCliente.getProxy();
+        proxyCliente.insert(login);
 
         // Servidor: Usuario recibe login
         UsuarioServ usuarioServ = new UsuarioServ();
