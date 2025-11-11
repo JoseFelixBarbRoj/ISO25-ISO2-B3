@@ -1,8 +1,10 @@
 package iso2.servidor.persistencia;
 
+import java.util.ArrayList;
+
 public class Agente {
 
-	public void getAgente() {
+	public Agente getAgente() {
 		// TODO - implement Agente.getAgente
 		throw new UnsupportedOperationException();
 	}
@@ -16,8 +18,8 @@ public class Agente {
 	 * 
 	 * @param SQL
 	 */
-	public void insert(int SQL) {
-		// TODO - implement Agente.insert
+	public ArrayList<Object> select(String SQL) {
+		// TODO - implement Agente.select
 		throw new UnsupportedOperationException();
 	}
 

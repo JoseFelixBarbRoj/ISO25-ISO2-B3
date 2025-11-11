@@ -2,7 +2,7 @@ package iso2.cliente.dominio;
 
 public class Catalogo {
 
-	public void solicitarCatalogo() {
+	public Catalogo solicitarCatalogo() {
 		// TODO - implement Catalogo.solicitarCatalogo
 		throw new UnsupportedOperationException();
 	}
