@@ -10,14 +10,15 @@
   <packaging>pom</packaging>
   <modules>
     <module>it1</module>
+    <module>it2</module>
   </modules>
 
   <name>lab_b3</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>1.7</maven.compiler.source>
-    <maven.compiler.target>1.7</maven.compiler.target>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
 
   <dependencies>
@@ -37,15 +38,6 @@
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-jar-plugin</artifactId>
             <version>3.3.0</version>
-            <configuration>
-                <archive>
-                    <manifest>
-                        <addClasspath>true</addClasspath>
-                        <classpathPrefix>lib/</classpathPrefix>
-                        <mainClass>iso2.cliente.presentacion.Pantalla_login_sso</mainClass>
-                    </manifest>
-                </archive>
-            </configuration>
         </plugin>
     </plugins>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->

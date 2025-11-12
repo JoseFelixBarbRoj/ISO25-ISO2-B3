@@ -1,0 +1,9 @@
+iso2\cliente\dominio\Catalogo.class
+iso2\servidor\persistencia\Agente.class
+iso2\cliente\persistencia\Proxy.class
+iso2\servidor\dominio\Libro.class
+iso2\cliente\dominio\Control_consulta.class
+iso2\cliente\presentacion\IU_buscar_catalogo.class
+iso2\servidor\dominio\Catalogo.class
+iso2\servidor\presentacion\IU_consultar_catalogo.class
+iso2\servidor\dominio\Control_catalogo.class
