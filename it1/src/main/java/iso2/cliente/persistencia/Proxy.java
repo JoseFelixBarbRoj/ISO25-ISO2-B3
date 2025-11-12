@@ -2,8 +2,9 @@ package iso2.cliente.persistencia;
 
 public class Proxy {
 
-    public void getProxy() {
+    public Proxy getProxy() {
         System.out.println("Proxy cliente: Obteniendo agente");
+        return new Proxy();
     }
 
     public Proxy() {
@@ -14,8 +15,9 @@ public class Proxy {
      * 
      * @param SQL
      */
-    public void insert(int SQL) {
-        System.out.println("Proxy cliente: Insertando SQL = " + SQL);
+    public boolean inicioSesion(String login, String pass) {
+        System.out.println("Proxy cliente: Iniciando sesión para usuario = " + login);
+        return true;
     }
 
 }

@@ -7,7 +7,7 @@ public class UsuarioServ {
      * @param login
      * @param pass
      */
-    public void recibirDatosLogin(int login, int pass) {
+    public void recibirDatosLogin(String login, String pass) {
         System.out.println("UsuarioServ: Recibiendo login = " + login + ", pass = " + pass);
     }
 

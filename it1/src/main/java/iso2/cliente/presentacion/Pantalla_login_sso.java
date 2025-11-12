@@ -6,7 +6,7 @@ import iso2.cliente.persistencia.Proxy;
 
 import iso2.servidor.dominio.Controlador_sesion;
 import iso2.servidor.dominio.UsuarioServ;
-import iso2.servidor.persistencia.AgenteS;
+import iso2.servidor.persistencia.Agente;
 import iso2.servidor.presentacion.Interfaz_sso_universidad;
 
 public class Pantalla_login_sso {
@@ -21,8 +21,9 @@ public class Pantalla_login_sso {
         // Simular obtener datos de login
         Pantalla_login_sso pantalla = new Pantalla_login_sso();
         pantalla.obtenerDatosLogin();
-        int login = 1234;
-        int pass = 5678;
+        String login = "usuario";
+        String pass = "pass";
+        String sql = "";
         System.out.println("Datos ingresados por el usuario: login=" + login + ", pass=" + pass);
 
         // Cliente: Guardar login en el controlador
@@ -36,7 +37,7 @@ public class Pantalla_login_sso {
         // Cliente: Guardar en persistencia
         Proxy proxyCliente = new Proxy();
         proxyCliente.getProxy();
-        proxyCliente.insert(login);
+        proxyCliente.inicioSesion(login, pass);
 
         // Servidor: Usuario recibe login
         UsuarioServ usuarioServ = new UsuarioServ();
@@ -47,9 +48,9 @@ public class Pantalla_login_sso {
         controladorServ.comprobarDatosLogin(login, pass);
 
         // Servidor: Persistencia
-        AgenteS agenteServidor = new AgenteS();
+        Agente agenteServidor = new Agente();
         agenteServidor.getAgente();
-        agenteServidor.select(login);
+        agenteServidor.select(sql);
 
         // Servidor: Presentación/validación final
         Interfaz_sso_universidad interfaz = new Interfaz_sso_universidad();

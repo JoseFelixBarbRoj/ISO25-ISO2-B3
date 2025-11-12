@@ -1,21 +1,25 @@
 package iso2.servidor.persistencia;
 
-public class AgenteS {
+import java.util.ArrayList;
 
-    public AgenteS() {
+public class Agente {
+
+    public Agente() {
         System.out.println("Agente servidor: Constructor");
     }
 
-    public void getAgente() {
+    public Agente getAgente() {
         System.out.println("Agente servidor: Obteniendo agente");
+        return new Agente();
     }
 
     /**
      * 
-     * @param SQL
+     * @param login
      */
-    public void select(int SQL) {
+    public ArrayList<Object> select(String SQL) {
         System.out.println("Agente servidor: Seleccionando SQL = " + SQL);
+        return new ArrayList<Object>();
     }
 
 }

@@ -1,8 +1,8 @@
+iso2\servidor\persistencia\Agente.class
 iso2\cliente\dominio\Controlador_autenticacion.class
 iso2\cliente\persistencia\Proxy.class
 iso2\servidor\dominio\Controlador_sesion.class
 iso2\servidor\dominio\UsuarioServ.class
 iso2\servidor\presentacion\Interfaz_sso_universidad.class
 iso2\cliente\dominio\Usuario.class
-iso2\servidor\persistencia\AgenteS.class
 iso2\cliente\presentacion\Pantalla_login_sso.class

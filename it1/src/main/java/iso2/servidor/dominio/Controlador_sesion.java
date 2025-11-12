@@ -7,7 +7,7 @@ public class Controlador_sesion {
      * @param login
      * @param pass
      */
-    public void comprobarDatosLogin(int login, int pass) {
+    public void comprobarDatosLogin(String login, String pass) {
         System.out.println("Controlador_sesion: Comprobando login = " + login + ", pass = " + pass);
     }
 
