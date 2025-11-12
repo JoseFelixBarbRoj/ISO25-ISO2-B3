@@ -11,8 +11,9 @@ import iso2.servidor.presentacion.Interfaz_sso_universidad;
 
 public class Pantalla_login_sso {
 
-    public void obtenerDatosLogin() {
+    public boolean obtenerDatosLogin() {
         System.out.println("Pantalla_login_sso: Obteniendo datos de login del usuario");
+        return true;
     }
 
     public static void main(String[] args) {
