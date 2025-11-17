@@ -6,7 +6,7 @@ public class Control_catalogo {
         System.out.println("[Control_catalogo] Cargando catálogo desde BD...");
 
         // Simula verificación de asignatura
-        if (!verificarAsignatura()) {
+        if (!verificarAsignatura("asignatura")) {
             System.out.println("[Control_catalogo] Asignatura no válida.");
             return null;
         }
@@ -15,7 +15,7 @@ public class Control_catalogo {
         return c.enviarCatalogo(asignatura);
     }
 
-    public boolean verificarAsignatura() {
+    public boolean verificarAsignatura(String asignatura) {
         System.out.println("[Control_catalogo] Verificando asignatura...");
         return true;
     }
