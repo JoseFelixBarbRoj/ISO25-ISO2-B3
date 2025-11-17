@@ -11,7 +11,7 @@ public class Estudiante {
         asignaturas = new ArrayList<>();
     }
 
-    public boolean verificarAsignaturaMatriculada(String asignatura) {
+    public boolean verificarAsignaturaMatriculada(String asignatura, int idEstudiante) {
         return asignaturas.stream().anyMatch(a -> a.getNombre().equals(asignatura));
     }
 }
