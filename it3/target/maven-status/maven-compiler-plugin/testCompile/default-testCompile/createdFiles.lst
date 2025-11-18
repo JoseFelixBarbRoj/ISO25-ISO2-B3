@@ -1,0 +1,11 @@
+com\pruebas\servidor\persistencia\AgenteTest.class
+com\pruebas\cliente\presentacion\IU_buscar_catalogoTest.class
+com\pruebas\cliente\dominio\CatalogoTest.class
+com\pruebas\cliente\dominio\Control_consultaTest.class
+com\pruebas\servidor\dominio\LibroTest.class
+com\pruebas\servidor\dominio\EstudianteTest.class
+com\pruebas\servidor\dominio\Control_catalogoTest.class
+com\pruebas\cliente\persistencia\ProxyTest.class
+com\pruebas\servidor\dominio\CatalogoTest.class
+com\pruebas\servidor\presentacion\IU_consultar_catalogoTest.class
+com\pruebas\servidor\dominio\AsignaturaTest.class
