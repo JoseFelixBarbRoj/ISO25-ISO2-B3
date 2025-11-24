@@ -1,0 +1,12 @@
+com\pruebas\cliente\presentacion\IU_reservaTest.class
+com\pruebas\servidor\persistencia\AgenteTest.class
+com\pruebas\servidor\presentacion\IU_gestion_reservasTest.class
+com\pruebas\cliente\dominio\Control_renovacionTest.class
+com\pruebas\servidor\dominio\PrestamoTest.class
+com\pruebas\cliente\persistencia\ProxyTest.class
+com\pruebas\servidor\presentacion\IU_gestion_renovacionTest.class
+com\pruebas\cliente\dominio\Control_reservaTest.class
+com\pruebas\servidor\dominio\Control_renovacionesTest.class
+com\pruebas\servidor\dominio\Control_reservasTest.class
+com\pruebas\cliente\dominio\UsuarioTest.class
+com\pruebas\cliente\presentacion\IU_renovacionTest.class
