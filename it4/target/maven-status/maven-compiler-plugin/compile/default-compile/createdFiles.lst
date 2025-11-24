@@ -1,0 +1,12 @@
+iso2\cliente\Dominio\Control_reserva.class
+iso2\cliente\Presentacion\IU_reserva.class
+iso2\servidor\Dominio\Prestamo.class
+iso2\servidor\Dominio\Control_renovaciones.class
+iso2\cliente\Presentacion\IU_renovacion.class
+iso2\cliente\Persistencia\Proxy.class
+iso2\servidor\Dominio\Control_reservas.class
+iso2\servidor\Presentacion\IU_gestion_reservas.class
+iso2\servidor\Persistencia\Agente.class
+iso2\cliente\Dominio\Control_renovacion.class
+iso2\servidor\Presentacion\IU_gestion_renovaciones.class
+iso2\cliente\Dominio\Usuario.class
