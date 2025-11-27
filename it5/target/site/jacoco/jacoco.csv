@@ -1,0 +1,13 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+it5-0.5.0-SNAPSHOT Maven Webapp,iso2.cliente.Dominio,Usuario,25,0,0,0,9,0,5,0,5,0
+it5-0.5.0-SNAPSHOT Maven Webapp,iso2.cliente.Dominio,Control_recursos,8,0,0,0,3,0,2,0,2,0
+it5-0.5.0-SNAPSHOT Maven Webapp,iso2.cliente.Dominio,Control_verificacion,8,0,0,0,3,0,2,0,2,0
+it5-0.5.0-SNAPSHOT Maven Webapp,iso2.servidor.Persistencia,Agente,17,0,0,0,7,0,3,0,3,0
+it5-0.5.0-SNAPSHOT Maven Webapp,iso2.cliente.Presentacion,IU_verificar,64,0,4,0,20,0,5,0,3,0
+it5-0.5.0-SNAPSHOT Maven Webapp,iso2.cliente.Presentacion,IU_recursos,7,0,0,0,3,0,2,0,2,0
+it5-0.5.0-SNAPSHOT Maven Webapp,iso2.servidor.Presentacion,IU_verificacion_derechos,9,0,0,0,3,0,2,0,2,0
+it5-0.5.0-SNAPSHOT Maven Webapp,iso2.servidor.Presentacion,IU_acceso_recursos,8,0,0,0,3,0,2,0,2,0
+it5-0.5.0-SNAPSHOT Maven Webapp,iso2.cliente.persistencia,Proxy,21,0,0,0,9,0,4,0,4,0
+it5-0.5.0-SNAPSHOT Maven Webapp,iso2.servidor.Dominio,Recursos,14,0,0,0,5,0,3,0,3,0
+it5-0.5.0-SNAPSHOT Maven Webapp,iso2.servidor.Dominio,Control_gestor_recursos,8,0,0,0,3,0,2,0,2,0
+it5-0.5.0-SNAPSHOT Maven Webapp,iso2.servidor.Dominio,Control_validar,9,0,0,0,3,0,2,0,2,0

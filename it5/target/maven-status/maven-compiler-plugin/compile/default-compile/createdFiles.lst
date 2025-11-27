@@ -1,0 +1,12 @@
+iso2\servidor\Presentacion\IU_verificacion_derechos.class
+iso2\cliente\Dominio\Control_recursos.class
+iso2\cliente\Presentacion\IU_verificar.class
+iso2\cliente\Dominio\Control_verificacion.class
+iso2\servidor\Dominio\Control_validar.class
+iso2\cliente\persistencia\Proxy.class
+iso2\servidor\Dominio\Recursos.class
+iso2\servidor\Persistencia\Agente.class
+iso2\servidor\Presentacion\IU_acceso_recursos.class
+iso2\servidor\Dominio\Control_gestor_recursos.class
+iso2\cliente\Dominio\Usuario.class
+iso2\cliente\Presentacion\IU_recursos.class

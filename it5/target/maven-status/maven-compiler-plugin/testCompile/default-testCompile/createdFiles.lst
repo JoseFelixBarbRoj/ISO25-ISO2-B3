@@ -1,0 +1,12 @@
+com\pruebas\servidor\persistencia\AgenteTest.class
+com\pruebas\cliente\dominio\Control_recursosTest.class
+com\pruebas\servidor\dominio\Control_validarTest.class
+com\pruebas\servidor\presentacion\IU_verificacion_derechosTest.class
+com\pruebas\cliente\presentacion\IU_verificarTest.class
+com\pruebas\cliente\dominio\Control_verificacionTest.class
+com\pruebas\servidor\presentacion\IU_acceso_recursosTest.class
+com\pruebas\cliente\persistencia\ProxyTest.class
+com\pruebas\servidor\dominio\Control_gestor_recursosTest.class
+com\pruebas\cliente\presentacion\IU_recursosTest.class
+com\pruebas\servidor\dominio\RecursosTest.class
+com\pruebas\cliente\dominio\UsuarioTest.class
