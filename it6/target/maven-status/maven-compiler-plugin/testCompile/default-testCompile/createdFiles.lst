@@ -1,0 +1,8 @@
+com\pruebas\servidor\persistencia\AgenteTest.class
+com\pruebas\cliente\dominio\Control_historialTest.class
+com\pruebas\cliente\presentacion\IU_historial_prestamosTest.class
+com\pruebas\servidor\dominio\Control_historialTest.class
+com\pruebas\servidor\dominio\Historial_prestamoTest.class
+com\pruebas\cliente\persistencia\ProxyTest.class
+com\pruebas\servidor\presentacion\IU_historialTest.class
+com\pruebas\cliente\dominio\UsuarioTest.class

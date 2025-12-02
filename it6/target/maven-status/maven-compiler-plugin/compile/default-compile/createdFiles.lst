@@ -1,0 +1,8 @@
+iso2\servidor\Presentacion\IU_historial.class
+iso2\cliente\Dominio\Control_historial.class
+iso2\cliente\Persistencia\Proxy.class
+iso2\cliente\Presentacion\IU_historial_prestamos.class
+iso2\servidor\Persistencia\Agente.class
+iso2\servidor\Dominio\Control_historial.class
+iso2\cliente\Dominio\Usuario.class
+iso2\servidor\Dominio\Historial_prestamo.class
