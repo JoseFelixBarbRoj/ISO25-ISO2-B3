@@ -1,11 +1,11 @@
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it3\src\test\java\com\pruebas\cliente\presentacion\IU_buscar_catalogoTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it3\src\test\java\com\pruebas\cliente\dominio\Control_consultaTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it3\src\test\java\com\pruebas\servidor\dominio\EstudianteTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it3\src\test\java\com\pruebas\servidor\dominio\LibroTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it3\src\test\java\com\pruebas\servidor\dominio\Control_catalogoTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it3\src\test\java\com\pruebas\cliente\persistencia\ProxyTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it3\src\test\java\com\pruebas\servidor\presentacion\IU_consultar_catalogoTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it3\src\test\java\com\pruebas\servidor\dominio\CatalogoTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it3\src\test\java\com\pruebas\servidor\dominio\AsignaturaTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it3\src\test\java\com\pruebas\servidor\persistencia\AgenteTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it3\src\test\java\com\pruebas\cliente\dominio\CatalogoTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it3\src\test\java\com\pruebas\servidor\dominio\EstudianteTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it3\src\test\java\com\pruebas\servidor\dominio\AsignaturaTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it3\src\test\java\com\pruebas\servidor\presentacion\IU_consultar_catalogoTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it3\src\test\java\com\pruebas\servidor\persistencia\AgenteTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it3\src\test\java\com\pruebas\servidor\dominio\CatalogoTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it3\src\test\java\com\pruebas\servidor\dominio\LibroTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it3\src\test\java\com\pruebas\servidor\dominio\Control_catalogoTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it3\src\test\java\com\pruebas\cliente\dominio\CatalogoTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it3\src\test\java\com\pruebas\cliente\dominio\Control_consultaTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it3\src\test\java\com\pruebas\cliente\persistencia\ProxyTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it3\src\test\java\com\pruebas\cliente\presentacion\IU_buscar_catalogoTest.java
