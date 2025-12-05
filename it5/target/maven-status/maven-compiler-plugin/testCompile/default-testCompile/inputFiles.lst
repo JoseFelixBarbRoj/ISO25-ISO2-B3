@@ -1,12 +1,12 @@
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\test\java\com\pruebas\cliente\dominio\Control_verificacionTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\test\java\com\pruebas\cliente\presentacion\IU_recursosTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\test\java\com\pruebas\servidor\dominio\Control_validarTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\test\java\com\pruebas\cliente\dominio\UsuarioTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\test\java\com\pruebas\cliente\presentacion\IU_verificarTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\test\java\com\pruebas\servidor\presentacion\IU_acceso_recursosTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\test\java\com\pruebas\cliente\dominio\Control_recursosTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\test\java\com\pruebas\cliente\persistencia\ProxyTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\test\java\com\pruebas\servidor\presentacion\IU_verificacion_derechosTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\test\java\com\pruebas\servidor\dominio\Control_gestor_recursosTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\test\java\com\pruebas\servidor\persistencia\AgenteTest.java
-C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\test\java\com\pruebas\servidor\dominio\RecursosTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\test\java\com\pruebas\cliente\dominio\Control_verificacionTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\test\java\com\pruebas\servidor\dominio\Control_validarTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\test\java\com\pruebas\servidor\presentacion\IU_acceso_recursosTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\test\java\com\pruebas\cliente\persistencia\ProxyTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\test\java\com\pruebas\cliente\presentacion\IU_recursosTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\test\java\com\pruebas\servidor\presentacion\IU_verificacion_derechosTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\test\java\com\pruebas\cliente\presentacion\IU_verificarTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\test\java\com\pruebas\cliente\dominio\Control_recursosTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\test\java\com\pruebas\cliente\dominio\UsuarioTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\test\java\com\pruebas\servidor\dominio\RecursosTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\test\java\com\pruebas\servidor\dominio\Control_gestor_recursosTest.java
+C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\test\java\com\pruebas\servidor\persistencia\AgenteTest.java
