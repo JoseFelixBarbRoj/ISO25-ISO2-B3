@@ -1,0 +1,8 @@
+iso2\cliente\Dominio\Control_solicitudes.class
+iso2\servidor\Presentacion\IU_registro_solicitud.class
+iso2\cliente\Persistencia\Proxy.class
+iso2\servidor\Persistencia\Agente.class
+iso2\servidor\Dominio\Solicitud_adquisicion.class
+iso2\cliente\Dominio\Usuario.class
+iso2\cliente\Presentacion\IU_solicitud_material.class
+iso2\servidor\Dominio\Control_adquisiciones.class

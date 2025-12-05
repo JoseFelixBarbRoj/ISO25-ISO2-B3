@@ -1,0 +1,9 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+it7-0.7.0-SNAPSHOT Maven Webapp,iso2.cliente.Dominio,Usuario,15,0,0,0,5,0,3,0,3,0
+it7-0.7.0-SNAPSHOT Maven Webapp,iso2.cliente.Dominio,Control_solicitudes,30,0,2,0,9,0,3,0,2,0
+it7-0.7.0-SNAPSHOT Maven Webapp,iso2.servidor.Persistencia,Agente,17,0,0,0,7,0,3,0,3,0
+it7-0.7.0-SNAPSHOT Maven Webapp,iso2.cliente.Presentacion,IU_solicitud_material,44,0,2,0,15,0,4,0,3,0
+it7-0.7.0-SNAPSHOT Maven Webapp,iso2.servidor.Presentacion,IU_registro_solicitud,15,0,0,0,4,0,2,0,2,0
+it7-0.7.0-SNAPSHOT Maven Webapp,iso2.servidor.Dominio,Control_adquisiciones,15,0,0,0,4,0,2,0,2,0
+it7-0.7.0-SNAPSHOT Maven Webapp,iso2.servidor.Dominio,Solicitud_adquisicion,9,0,0,0,3,0,2,0,2,0
+it7-0.7.0-SNAPSHOT Maven Webapp,iso2.cliente.Persistencia,Proxy,26,0,0,0,9,0,3,0,3,0
