@@ -1,0 +1,8 @@
+iso2\servidor\Dominio\Notificacones.class
+iso2\servidor\Dominio\Control_notif.class
+iso2\cliente\Dominio\Control_notificaciones.class
+iso2\servidor\Presentacion\IU_enviar_notificaciones.class
+iso2\cliente\Persistencia\Proxy.class
+iso2\servidor\Persistencia\Agente.class
+iso2\cliente\Dominio\Usuario.class
+iso2\cliente\Presentacion\IU_notificaciones.class
