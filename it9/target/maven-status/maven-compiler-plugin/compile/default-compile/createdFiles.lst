@@ -1,0 +1,8 @@
+iso2\servidor\Dominio\Reserva.class
+iso2\servidor\Dominio\Control_reserva.class
+iso2\cliente\Presentacion\IU_reserva_sala.class
+iso2\cliente\Persistencia\Proxy.class
+iso2\servidor\Presentacion\IU_gestion_reserva.class
+iso2\servidor\Persistencia\Agente.class
+iso2\cliente\Dominio\Control_reserva_sala.class
+iso2\cliente\Dominio\Usuario.class

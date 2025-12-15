@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.pruebas.cliente.dominio.Control_historialTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.091 s -- in com.pruebas.cliente.dominio.Control_historialTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.095 s -- in com.pruebas.cliente.dominio.Control_historialTest
