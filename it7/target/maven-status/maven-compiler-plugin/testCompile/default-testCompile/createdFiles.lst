@@ -1,8 +1,0 @@
-com\pruebas\servidor\persistencia\AgenteTest.class
-com\pruebas\servidor\presentacion\IU_registro_solicitudTest.class
-com\pruebas\servidor\dominio\Solicitud_AdquisicionesTest.class
-com\pruebas\servidor\dominio\Control_adquisicionesTest.class
-com\pruebas\cliente\dominio\Control_solicitudesTest.class
-com\pruebas\cliente\persistencia\ProxyTest.class
-com\pruebas\cliente\presentacion\IU_solicitud_materialTest.class
-com\pruebas\cliente\dominio\UsuarioTest.class

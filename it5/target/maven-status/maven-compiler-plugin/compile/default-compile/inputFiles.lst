@@ -1,12 +1,12 @@
-C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\main\java\iso2\cliente\Dominio\Usuario.java
-C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\main\java\iso2\servidor\Dominio\Control_gestor_recursos.java
-C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\main\java\iso2\servidor\Dominio\Recursos.java
-C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\main\java\iso2\servidor\Dominio\Control_validar.java
-C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\main\java\iso2\cliente\Presentacion\IU_verificar.java
-C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\main\java\iso2\cliente\Presentacion\IU_recursos.java
-C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\main\java\iso2\servidor\Presentacion\IU_acceso_recursos.java
-C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\main\java\iso2\servidor\Presentacion\IU_verificacion_derechos.java
-C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\main\java\iso2\cliente\Dominio\Control_verificacion.java
-C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\main\java\iso2\cliente\persistencia\Proxy.java
-C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\main\java\iso2\servidor\Persistencia\Agente.java
-C:\Users\Darío López\Documents\GitHub\ISO2_B3\it5\src\main\java\iso2\cliente\Dominio\Control_recursos.java
+C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\main\java\iso2\servidor\Presentacion\IU_verificacion_derechos.java
+C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\main\java\iso2\servidor\Dominio\Control_gestor_recursos.java
+C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\main\java\iso2\cliente\Presentacion\IU_verificar.java
+C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\main\java\iso2\servidor\Dominio\Recursos.java
+C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\main\java\iso2\cliente\Dominio\Usuario.java
+C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\main\java\iso2\servidor\Persistencia\Agente.java
+C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\main\java\iso2\cliente\Dominio\Control_recursos.java
+C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\main\java\iso2\cliente\Presentacion\IU_recursos.java
+C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\main\java\iso2\cliente\persistencia\Proxy.java
+C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\main\java\iso2\cliente\Dominio\Control_verificacion.java
+C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\main\java\iso2\servidor\Presentacion\IU_acceso_recursos.java
+C:\Users\coco\Desktop\Universidad\3º Carrera\1º Cuatrimestre\ISO2\Laboratorio\ISO25-ISO2-B3\it5\src\main\java\iso2\servidor\Dominio\Control_validar.java

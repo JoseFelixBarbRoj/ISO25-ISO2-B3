@@ -1,8 +1,0 @@
-com\pruebas\cliente\dominio\Control_Reserva_salaTest.class
-com\pruebas\servidor\persistencia\AgenteTest.class
-com\pruebas\cliente\persistencia\ProxyTest.class
-com\pruebas\cliente\presentacion\IU_reserva_salaTest.class
-com\pruebas\cliente\dominio\UsuarioTest.class
-com\pruebas\servidor\dominio\ReservaTest.class
-com\pruebas\servidor\dominio\Control_reservaTest.class
-com\pruebas\servidor\presentacion\IU_gestion_reservaTest.class
