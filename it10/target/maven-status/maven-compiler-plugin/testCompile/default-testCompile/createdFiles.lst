@@ -1,0 +1,8 @@
+com\pruebas\servidor\dominio\Prestamo_hTest.class
+com\pruebas\servidor\persistencia\AgenteTest.class
+com\pruebas\cliente\presentacion\IU_solicitud_hTest.class
+com\pruebas\cliente\persistencia\ProxyTest.class
+com\pruebas\cliente\dominio\Control_soli_hTest.class
+com\pruebas\servidor\dominio\Control_prestamos_hTest.class
+com\pruebas\cliente\dominio\UsuarioTest.class
+com\pruebas\servidor\presentacion\IU_gestion_hTest.class

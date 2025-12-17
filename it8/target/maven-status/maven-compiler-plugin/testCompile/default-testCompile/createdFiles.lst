@@ -1,8 +1,0 @@
-com\pruebas\servidor\persistencia\AgenteTest.class
-com\pruebas\cliente\presentacion\IU_notificacionesTest.class
-com\pruebas\servidor\presentacion\IU_enviar_notificacionesTest.class
-com\pruebas\cliente\persistencia\ProxyTest.class
-com\pruebas\servidor\dominio\Control_notifTest.class
-com\pruebas\cliente\dominio\Control_notificacionesTest.class
-com\pruebas\cliente\dominio\UsuarioTest.class
-com\pruebas\servidor\dominio\NotificaconesTest.class

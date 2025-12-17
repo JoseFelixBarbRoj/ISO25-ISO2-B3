@@ -1,9 +1,0 @@
-GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-it6-0.6.0-SNAPSHOT Maven Webapp,iso2.cliente.Dominio,Usuario,19,0,0,0,5,0,5,0,5,0
-it6-0.6.0-SNAPSHOT Maven Webapp,iso2.cliente.Dominio,Control_historial,11,0,0,0,3,0,3,0,3,0
-it6-0.6.0-SNAPSHOT Maven Webapp,iso2.servidor.Persistencia,Agente,18,0,0,0,5,0,4,0,4,0
-it6-0.6.0-SNAPSHOT Maven Webapp,iso2.cliente.Presentacion,IU_historial_prestamos,18,0,0,0,6,0,4,0,4,0
-it6-0.6.0-SNAPSHOT Maven Webapp,iso2.servidor.Presentacion,IU_historial,11,0,0,0,3,0,3,0,3,0
-it6-0.6.0-SNAPSHOT Maven Webapp,iso2.servidor.Dominio,Historial_prestamo,11,0,0,0,3,0,3,0,3,0
-it6-0.6.0-SNAPSHOT Maven Webapp,iso2.servidor.Dominio,Control_historial,11,0,0,0,3,0,3,0,3,0
-it6-0.6.0-SNAPSHOT Maven Webapp,iso2.cliente.Persistencia,Proxy,18,0,0,0,5,0,4,0,4,0

@@ -1,0 +1,8 @@
+iso2\cliente\Dominio\Control_soli_h.class
+iso2\cliente\Presentacion\IU_solicitud_h.class
+iso2\cliente\Persistencia\Proxy.class
+iso2\servidor\Presentacion\IU_gestion_h.class
+iso2\servidor\Dominio\Control_prestamos_h.class
+iso2\servidor\Persistencia\Agente.class
+iso2\cliente\Dominio\Usuario.class
+iso2\servidor\Dominio\Prestamo_h.class
